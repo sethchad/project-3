@@ -2,5 +2,5 @@
 
 ## Team Members
 - Seth Chadwick
-- 
+- Troy Clarke
 - 
